@@ -1,2 +1,2 @@
 # AirBnB_clone_v2 - an Alx project
-This is a read me file by Sodiq Akanmu
+This is a read me file by Audu Aliyu Ehezu
